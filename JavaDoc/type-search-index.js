@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"albumcollection","l":"album"},{"p":"albumcollection","l":"albumcollection"},{"p":"albumcollection","l":"Main"}]
