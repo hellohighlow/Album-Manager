@@ -1,2 +1,4 @@
 # Album-Manager
-A mail box manager made in java
+An album collection manager made in java
+
+Check javadocs for more info
